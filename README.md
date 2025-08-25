@@ -1,0 +1,1 @@
+I made a wordpress media content scraper that gets all the video files (mp4, mov), audio files (mp3, wav, ogg), and images (webp, png, jpg)
